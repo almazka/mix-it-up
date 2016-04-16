@@ -31,11 +31,11 @@
 }
 ```
 
-##### Include jQuery and owl.carousel.min.js into the footer.
+##### Include jQuery and jquery.mixitup.min.js into the footer.
 
 ```html
 <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
 ```
 
 ##### More options
-https://mixitup.kunkalabs.com/docs
+https://mixitup.kunkalabs.com/docs/
